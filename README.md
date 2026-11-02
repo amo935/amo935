@@ -89,6 +89,9 @@ I'm always interested in connecting with other developers, exchanging ideas, and
   <a href="https://github.com/amo935">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="www.linkedin.com/in/agueda-manzaneda-orellana">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
