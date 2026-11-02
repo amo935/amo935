@@ -36,8 +36,8 @@ I enjoy exploring new technologies, solving problems through code, and continuou
 
 ### Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
 </p>
 
