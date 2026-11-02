@@ -37,7 +37,8 @@ I enjoy exploring new technologies, solving problems through code, and continuou
 ### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,oracle" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
 </p>
 
 ### Development Tools
